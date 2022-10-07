@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost", "root", "", "crud_php");
+$conn = mysqli_connect("localhost", "root", "", "raihan");
 
 
 function query($query)
